@@ -4,6 +4,7 @@ Binge eating disorder (BED) constitutes a significant global public health conce
 The "Care Health" chatbot emerges as an innovative solution to address the multifaceted challenges associated with BED. Harnessing advanced technologies like natural language processing (NLP) and machine learning (ML), the chatbot offers tailored assistance to individuals grappling with BED. In this context, we explore the comprehensive support it delivers, including the crucial link to online consultations with Practo doctors. The chatbot initiates personalized conversations with users, aiming to help them better manage their eating habits and gain insight into their emotional triggers. By continuously analyzing user responses and behaviors, "Care Health" identifies distinctive patterns and triggers contributing to episodes of binge eating.
 
 **System Design-**
-![Uploading image.png…]()
+![image](https://github.com/AryanKunwar02/CareHealth-Chatbot/assets/81226134/3aebc4bb-2a91-43ed-bda1-08c04ba69c35)
+
 
 
