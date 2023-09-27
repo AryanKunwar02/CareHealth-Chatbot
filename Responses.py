@@ -1,12 +1,7 @@
 from datetime import datetime
 import random_responses
-
-
-
 def isoweekday():
     pass
-
-
 def sample_responses(input_text, random_item=True, random_list=True):
     user_message = str(input_text).lower()
 
